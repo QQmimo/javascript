@@ -1,0 +1,11 @@
+let numberOne = 1e10;
+console.log(numberOne);
+let numberTwo = 1e-5;
+console.log(numberTwo);
+let numberThree = Number('1000');
+console.log(numberThree);
+let numberFour_One = Math.floor(0.3);
+let numberFour_Two = Math.round(0.6);
+console.log(numberFour_One);
+console.log(numberFour_Two);
+console.log(NaN == NaN);
