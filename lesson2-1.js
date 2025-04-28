@@ -2,13 +2,13 @@
 const user = {};
 
 // stage 2
-user.Name = 'John';
+user.name = 'John';
 
 // stage 3
-user.Surname = 'Smith';
+user.surname = 'Smith';
 
 // stage 4
-user.Name = 'Pete';
+user.name = 'Pete';
 
 // stage 5
 delete user.name;
